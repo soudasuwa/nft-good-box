@@ -1,0 +1,26 @@
+{
+	"private": true,
+	"version": "0.0.1",
+	"name": "my-nextjs-template",
+	"author": "soudasuwa <soudasuwa@proton.me>",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"export": "next export",
+		"start": "next start",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"@types/node": "^18.0.3",
+		"@types/react": "^18.0.15",
+		"next": "^12.2.2",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"typescript": "^4.7.4"
+	},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.30.5",
+		"@typescript-eslint/parser": "^5.30.5",
+		"eslint": "^8.19.0"
+	}
+}

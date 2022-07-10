@@ -1,0 +1,11 @@
+
+# NodeJS
+## Modules
+/node_modules/
+
+# NextJS
+## Build
+/out/
+
+## Dev Cache
+/.next/
