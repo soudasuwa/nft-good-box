@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"version": "0.0.1",
-	"name": "my-nextjs-template",
+	"name": "nft-good-box",
 	"author": "soudasuwa <soudasuwa@proton.me>",
 	"scripts": {
 		"dev": "next dev",
